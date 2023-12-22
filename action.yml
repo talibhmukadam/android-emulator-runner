@@ -1,4 +1,4 @@
-name: 'Android Emulator Runner'
+name: 'Android Emulator Runner - self hosted'
 description: 'Installs, configures and starts an Android Emulator directly on macOS virtual machines.'
 author: 'Reactive Circus'
 branding:
